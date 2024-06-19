@@ -32,7 +32,7 @@
   <img src="./reading.jpg" width="150" height="310">
 
   * 기록 화면
-      * 책 검색
+      * 책 검색 / 책 기록
       <img src="./bookSearch.jpg" width="150" height="310">
 
       <img src="./recording.jpg" width="150" height="310">
