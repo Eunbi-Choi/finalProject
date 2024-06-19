@@ -22,7 +22,7 @@
   * 자신만의 프로필을 만들고 수정할 수 있다.
 
 #### 2.2 프로젝트 구조
-<img src="./app.JPG" width="500" height="200">
+<img src="./app.JPG" width="500" height="250">
 
 #### 2.3 결과물
   * 홈 화면
