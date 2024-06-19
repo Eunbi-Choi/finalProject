@@ -22,25 +22,26 @@
   * 자신만의 프로필을 만들고 수정할 수 있다.
 
 #### 2.2 프로젝트 구조
-<img src="./app.JPG" width="400" height="200">
+<img src="./app.JPG" width="500" height="200">
 
 #### 2.3 결과물
   * 홈 화면
-  ![로컬 이미지](home.jpg)
+  <img src="./home.jpg" width="150" height="310">
 
   * 독서 화면
-  ![로컬 이미지](reading.jpg)
+  <img src="./reading.jpg" width="150" height="310">
 
   * 기록 화면
     - 책 검색
-    ![로컬 이미지](bookSearch.jpg)  ![로컬 이미지](book.jpg)
+   <img src="./bookSearch.jpg" width="150" height="310">
     
     - 책 기록
-    ![로컬 이미지](recording.jpg)  ![로컬 이미지](recording2.jpg)
+   <img src="./recording.jpg" width="150" height="310">
+   <img src="./recording2.jpg" width="150" height="310">
 
   * 마이페이지 화면
-  ![로컬 이미지](mypage.jpg)
-
+  <img src="./mypage.jpg" width="150" height="310">
+  
 #### 2.4 발표 영상
 https://youtu.be/H4vWrjrsPTE?si=XxuYuMPwKdVSQ9RV
     
